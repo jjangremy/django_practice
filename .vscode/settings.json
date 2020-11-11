@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/kimhyemin/Desktop/env/bin/python",
+    "python.globalModuleInstallation": true,
+    "python.linting.pylintArgs": [ "--load-plugins=pylint_django" ]
+}
